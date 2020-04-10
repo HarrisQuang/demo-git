@@ -1,4 +1,4 @@
 import pandas as pd 
 
-df = pd.DataFrame ({'Job': ['IT', 'Marketing']})
-print (df)
+df3 = pd.DataFrame ({'Job': ['IT', 'Marketing']})
+print (df3)
